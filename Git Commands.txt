@@ -1,0 +1,7 @@
+	1. Type -> git -> shows all the commands
+	2. Commands
+		a. git status
+		b. git add -A
+		c. git commit -n "Type changes"
+		d. git pull
+		e. git push
