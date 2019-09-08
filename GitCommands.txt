@@ -1,0 +1,10 @@
+	1. Type -> git -> shows all the commands
+	2. Commands
+		a. git status
+		b. git add -A
+		c. git commit -n "Type changes"
+		d. git pull
+		e. git push
+
+
+	1. When a change is made and you forget to add "-n" with the changes then it displays a multi line message. The only way to come out of this mode is -> Hit "Esc" then ":" then "Wq"
